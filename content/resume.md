@@ -5,7 +5,7 @@ layout: ResumeLayout
 [Home](/) | [GitHub](https://github.com/jldec "GitHub: https://github.com/jldec") | [Linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [Email](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [Calendar](https://cal.com/jldec/30min "Book an appointment")
 
 # Jürgen Leschner
-0-to-1 Product engineer. Passionate about the Web. 🔥😅🔥
+Product engineer. Passionate about the Web. 🌍
 
 ❤️ Love to work with awesome teams to shape new products, read-write code, collaborate on issues and PRs, support customers, improve usability, build automation, measure performance, refine docs, handle on-call.
 
