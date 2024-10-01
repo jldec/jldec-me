@@ -44,4 +44,6 @@ Product engineer. Passionate about the Web. 🌍
 - Internet storage in 1983(!): MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (unix & C)
 
 ---
-Layout inspired by [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
+Built with ❤️ using [Presskit](https://github.com/jldec/presskit/) on Cloudflare Workers.
+
+Layout inspired by [The Monospace Web](https://owickstrom.github.io/the-monospace-web/) 🙏
