@@ -5,7 +5,7 @@ title: Jürgen Leschner
 
 # Jürgen Leschner
 ![](/images/jldec-london2.webp)
-0-to-1 Product engineer. Passionate about the Web.
+0-to-1 Product engineer. Passionate about the Web. 🔥😅🔥
 
 <a class="button" href="/resume">Resumé</a>
 <a class="button" href="/blog">Writings</a>
@@ -37,3 +37,6 @@ title: Jürgen Leschner
 - touchscreen + videodisc authoring: MIT Media Lab (Logo, MagicL)
 - word processor: MIT course 6.170 project (CLU)
 - Internet storage in 1983(!): MIT [LCS](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf) (unix & C)
+
+---
+Layout inspired by [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
