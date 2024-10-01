@@ -5,10 +5,11 @@ layout: ResumeLayout
 [Home](/) | [GitHub](https://github.com/jldec "GitHub: https://github.com/jldec") | [Linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [Email](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me") | [Calendar](https://cal.com/jldec/30min "Book an appointment")
 
 # Jürgen Leschner
+0-to-1 Product engineer. Passionate about the Web.
 
-❤️ Love to work with awesome engineers to shape new products, read-write code, collaborate on issues and PRs, support customers, improve usability, build automation, measure performance, refine docs, handle on-call.
+❤️ Love to work with awesome teams to shape new products, read-write code, collaborate on issues and PRs, support customers, improve usability, build automation, measure performance, refine docs, handle on-call.
 
-🚢 Shipped software at GitHub, VMware, and Microsoft. Helped build a few startups. Always learning.
+🚢 Shipped software at GitHub, VMware, and Microsoft and a variety of startups. Always learning.
 
 🏡 Home in Lexington MA, 2nd base in Dublin Ireland. OG from Johannesburg.
 
@@ -74,5 +75,4 @@ layout: ResumeLayout
 #### **Damelin College**: _Academic high school, Johannesburg S.Africa_
 - Fortunate to have had such great teachers esp. in Computer Science
 
-#### **Patents**
-- Inventor / co-inventor on [9 US patents](https://patents.justia.com/inventor/jurgen-leschner)
+#### **Patents**: Inventor / co-inventor on [9 US patents](https://patents.justia.com/inventor/jurgen-leschner)
