@@ -9,7 +9,6 @@ splash:
 [Home](/) | [GitHub](https://github.com/jldec "GitHub: https://github.com/jldec") | [Linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [Email](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me")
 
 # Jürgen Leschner
-![](/images/jldec-london.webp)
 Product engineer. Passionate about the Web. 🌍
 
 <a class="button" href="/resume">Resumé</a>

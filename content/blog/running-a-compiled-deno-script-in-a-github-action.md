@@ -1,7 +1,7 @@
 ---
 title: Running a compiled Deno script in a GitHub Action
 splash:
-  image: images/first-blossoms-2021.jpg
+  image: /images/first-blossoms-2021.jpg
 date: 2021-03-14
 layout: BlogPostLayout
 excerpt: |

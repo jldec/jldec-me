@@ -1,7 +1,7 @@
 ---
 title: First impressions of the new GitHub Projects Beta
 splash:
-  image: images/red-autumn-leaves.jpg
+  image: /images/red-autumn-leaves.jpg
 date: 2021-10-31
 layout: BlogPostLayout
 excerpt: |

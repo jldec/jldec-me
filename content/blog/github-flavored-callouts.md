@@ -4,7 +4,7 @@ date: 2023-12-17
 layout: BlogPostLayout
 author: jldec
 splash:
-  image: images/takeoff.webp
+  image: /images/takeoff.webp
 excerpt: |
   > [!NOTE]
   > Something new appeared in [GitHub Flavored Markdown](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/)  

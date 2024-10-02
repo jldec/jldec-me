@@ -1,7 +1,7 @@
 ---
 title: Using Gitpod to create a PR
 splash:
-  image: images/fields-of-clouds.jpg
+  image: /images/fields-of-clouds.jpg
 date: 2021-10-24
 layout: BlogPostLayout
 excerpt: |

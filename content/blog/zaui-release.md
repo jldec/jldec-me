@@ -2,7 +2,7 @@
 title: Zaui, our npm-installable SvelteKit toolchain
 author: Jürgen Leschner
 splash:
-  image: images/daisy.jpg
+  image: /images/daisy.jpg
 date: 2023-12-10
 layout: BlogPostLayout
 excerpt: |

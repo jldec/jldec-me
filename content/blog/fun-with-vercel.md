@@ -1,7 +1,7 @@
 ---
 title: Fun with Vercel
 splash:
-  image: images/library.jpg
+  image: /images/library.jpg
 date: 2021-02-07
 layout: BlogPostLayout
 excerpt: |

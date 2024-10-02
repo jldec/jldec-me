@@ -1,6 +1,7 @@
 ---
 title: Building a static site with Cloudflare Workers
 layout: BlogPostLayout
+splashimage: /images/minimal-static-site.jldec.workers.dev.webp
 date: 2024-09-27
 ---
 # Building a static site with Cloudflare Workers
@@ -87,4 +88,3 @@ Current Version ID: d0ecd041-b9a3-4e89-b168-baa394567839
 ```
 
 #### The result is live at [minimal-static-site.jldec.workers.dev](https://minimal-static-site.jldec.workers.dev)
-[![minimal-static-site.jldec.workers.dev](/images/minimal-static-site.jldec.workers.dev.webp)](https://minimal-static-site.jldec.workers.dev)

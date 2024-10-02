@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Deno
 splash:
-  image: images/clouds-trees.jpg
+  image: /images/clouds-trees.jpg
 date: 2021-02-28
 layout: BlogPostLayout
 excerpt: |

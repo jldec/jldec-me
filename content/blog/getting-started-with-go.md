@@ -1,7 +1,7 @@
 ---
 title: Getting started with Go
 splash:
-  image: images/church-blossoms.jpg
+  image: /images/church-blossoms.jpg
 date: 2021-04-03
 layout: BlogPostLayout
 excerpt: |
