@@ -6,7 +6,7 @@ twitter: '@jldec'
 splash:
   image: /images/jldec-london.webp
 ---
-[Home](/) | [GitHub](https://github.com/jldec "GitHub: https://github.com/jldec") | [Linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [Email](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me")
+[Home](/) | [X](https://x.com/jldec "@jldec on X.com") | [GitHub](https://github.com/jldec "GitHub: https://github.com/jldec") | [Linkedin](https://www.linkedin.com/in/jldec/ "Linkedin: https://www.linkedin.com/in/jldec/") | [Email](mailto:jurgen@jldec.me "Email me at jurgen@jldec.me")
 
 # Jürgen Leschner
 Product engineer. Passionate about the Web. 🌍
