@@ -88,3 +88,5 @@ Current Version ID: d0ecd041-b9a3-4e89-b168-baa394567839
 ```
 
 #### The result is live at [minimal-static-site.jldec.workers.dev](https://minimal-static-site.jldec.workers.dev)
+
+For some more thoughts on where this is going, see the Presskit post on [Read-write Static Assets bindings for Cloudflare Workers](https://presskit.jldec.me/blog/read-write-static-asset-bindings-for-cloudflare-workers).
