@@ -9,17 +9,17 @@ layout: BlogPostLayout
 
 At a recent event in London, I was excited to learn how [RedwoodSDK](https://rwsdk.com/) makes it easy to run React Server Components (RSC) on Cloudflare.
 
-I decided to learn more about this by building multi-user AI chat. Code on [GitHub](https://github.com/jldec/agents-chat). Deployed at https://agents-chat.jldec.workers.dev/.
+I decided to learn more about this by building multi-user AI chat. Code on [GitHub](https://github.com/jldec/agents-chat). Deployed at https://agents-chat.jldec.me/.
 
-> - [RSC Chat](https://agents-chat.jldec.workers.dev/chat-rsc) - syncs via [RedwoodSDK realtime websockets](https://docs.rwsdk.com/core/realtime/) - stores messages in a separate durable object.
+> - [RSC Chat](https://agents-chat.jldec.me/chat-rsc) - syncs via [RedwoodSDK realtime websockets](https://docs.rwsdk.com/core/realtime/) - stores messages in a separate durable object.
 >
-> - [Agent Chat](https://agents-chat.jldec.workers.dev/chat-agent) - syncs via [Cloudflare Agents websockets](https://developers.cloudflare.com/agents/api-reference/websockets/) - stores messages in a separate durable object.
+> - [Agent Chat](https://agents-chat.jldec.me/chat-agent) - syncs via [Cloudflare Agents websockets](https://developers.cloudflare.com/agents/api-reference/websockets/) - stores messages in a separate durable object.
 >
-> - [Agent SDK Chat](https://agents-chat.jldec.workers.dev/chat-agent-sdk) - uses [AIChatAgent](https://developers.cloudflare.com/agents/api-reference/agents-api/#aichatagent) with the [useAgentChat](https://developers.cloudflare.com/agents/api-reference/agents-api/#chat-agent-react-api) hook - stores messages in the same (per agent intance) durable object.
+> - [Agent SDK Chat](https://agents-chat.jldec.me/chat-agent-sdk) - uses [AIChatAgent](https://developers.cloudflare.com/agents/api-reference/agents-api/#aichatagent) with the [useAgentChat](https://developers.cloudflare.com/agents/api-reference/agents-api/#chat-agent-react-api) hook - stores messages in the same (per agent intance) durable object.
 >
-> - [TinyBase Chat](https://agents-chat.jldec.workers.dev/chat-tinybase) - syncs via [TinyBase websockets](https://tinybase.org/) and persists in TinyBase durable object.
+> - [TinyBase Chat](https://agents-chat.jldec.me/chat-tinybase) - syncs via [TinyBase websockets](https://tinybase.org/) and persists in TinyBase durable object.
 >
-> - [Agent Agent Chat](https://agents-chat.jldec.workers.dev/chat-agent-agent) - More advanced Cloudflare agent with subagents and MCP tool calling (sse only, no auth). Syncs via agent websocket.
+> - [Agent Agent Chat](https://agents-chat.jldec.me/chat-agent-agent) - More advanced Cloudflare agent with subagents and MCP tool calling (sse only, no auth). Syncs via agent websocket.
 
 Here are just a few of the challenges:
 
