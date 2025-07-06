@@ -47,7 +47,7 @@ Co-founder & product engineer - super-interested in AI knowledge tools for agent
 > - Handling on-call.
 
 ---
-_This website was built with [Presskit](https://github.com/jldec/presskit/) on Cloudflare Workers._
+_This website was built with [RedwoodSDK](https://rwsdk.com/) on Cloudflare Workers._
 
 _Layout inspired by [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)_ 🙏
 
