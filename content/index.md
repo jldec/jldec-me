@@ -49,7 +49,7 @@ Co-founder & product engineer - super-interested in AI knowledge tools for agent
 ---
 _This website was built with [RedwoodSDK](https://rwsdk.com/) on Cloudflare Workers._
 
-_Layout inspired by [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)_ 🙏
+_Layout inspired by [The Monospace Web](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)_ 🙏
 
 .........1.........2.........3.........4.........5.........6.........7.........8
 
