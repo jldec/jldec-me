@@ -38,7 +38,7 @@ Here are just a few of the challenges:
 
 - All implementations rely on Cloudflare [durable objects](https://developers.cloudflare.com/durable-objects/#what-are-durable-objects) with websockets. This is great for runtime performance and makes deployment easy. There are no containers to build or servers to manage.
 
-- React is great for a use case like this where updates are coming from both the server and the client. All implementations use the same [MessageList](src/app/shared/MessageList.tsx) component.
+- React is great for a use case like this where updates are coming from both the server and the client. All implementations use the same [MessageList](https://github.com/jldec/agents-chat/blob/main/src/app/shared/MessageList.tsx) component.
 
 #### RedwoodSK realtime RSC
 - Server components are a [succinct](https://github.com/jldec/agents-chat/blob/main/src/app/chat-rsc/ChatRSC.tsx) way to pre-populate JSX with data and then keep clients up to date.
