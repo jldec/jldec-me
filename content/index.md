@@ -47,7 +47,7 @@ Co-founder & product engineer - super-interested in AI knowledge tools for agent
 > - Handling on-call.
 
 ---
-_[Website](https://github.com/jldec/jldec-website) running [RedwoodSDK](https://rwsdk.com/) on Cloudflare Workers. Content lives in [GitHub](https://github.com/jldec/jldec-me).
+_This [website](https://github.com/jldec/jldec-website) runs [RedwoodSDK](https://rwsdk.com/) on Cloudflare Workers. Content lives in [GitHub](https://github.com/jldec/jldec-me)._
 
 _Layout inspired by [The Monospace Web](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)_ 🙏
 
