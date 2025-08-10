@@ -13,6 +13,8 @@ I decided to learn more about this by building multi-user AI chat. Code on [GitH
 
 > - [RSC Chat](https://agents-chat.jldec.me/chat-rsc) - syncs via [RedwoodSDK realtime websockets](https://docs.rwsdk.com/core/realtime/) - stores messages in a separate durable object.
 >
+> - [OpenAI Chat](https://agents-chat.jldec.me/chat-openai-sdk) - New! Uses [OpenAI Agents SDK](https://openai.github.io/openai-agents-js/)
+>
 > - [Agent Chat](https://agents-chat.jldec.me/chat-agent) - syncs via [Cloudflare Agents websockets](https://developers.cloudflare.com/agents/api-reference/websockets/) - stores messages in a separate durable object.
 >
 > - [Agent SDK Chat](https://agents-chat.jldec.me/chat-agent-sdk) - uses [AIChatAgent](https://developers.cloudflare.com/agents/api-reference/agents-api/#aichatagent) with the [useAgentChat](https://developers.cloudflare.com/agents/api-reference/agents-api/#chat-agent-react-api) hook - stores messages in the same (per agent intance) durable object.
@@ -71,6 +73,15 @@ Here are just a few of the challenges:
 - There are also built-in tools for clearing and listing messages.
 
 - Subagent responses currently don't stream (TODO)
+
+#### OpenAI Agents SDK
+- OpenAI Agents SDK is less mature and focuses on model APIs, not UI integration.
+
+- It offers APIs for realtime, handoffs, and subagents - not used in this project yet.
+
+- It currently requires [patches](https://github.com/jldec/agents-chat/tree/main/patches) to run in workerd. (from [here](https://github.com/cloudflare/agents/tree/main/patches) 🙏 [@threepointone](https://x.com/threepointone))
+
+- The stateful Agent abstraction assumes long-running server processes with a single conversation per agent.
 
 #### TinyBase sync
 - Synchronization is happening between memory and persistance on every node, and between nodes.
