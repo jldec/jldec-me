@@ -24,12 +24,13 @@ Full-stack Web software engineer and experienced EM/PM leader.
 #### **Zero ASIC**: _Software Architect, Dublin & Boston, 2023_
 - Semiconductor company developing a disruptive chiplet-based platform
 - Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation)
+- Back-end deployed on AWS EC2 and ECS, front-end and auth on Cloudflare workers.
 - Built [zaui](https://github.com/zeroasiccorp/zaui), a pip-installable, python-extensible SSG
 
 #### **Gitpod**: _Product manager, Cambridge UK, 2021 - 2022_
 - PM on feature team for k8s-based [Cloud development environments](https://www.gitpod.io/cde).
 - Successfully led the team to ship usage-based billing
-- Deployed on Kubernetes
+- Deployed on GCP with Kubernetes
 
 #### **VMware**: _Product leader, Cambridge USA & Cambridge UK, 2017 - 2021_
 - Incubated [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html) - [demo](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623133962915001FdQX)
