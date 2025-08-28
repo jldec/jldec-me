@@ -10,16 +10,16 @@ Full-stack Web software engineer and experienced EM/PM leader.
 
 🏡 Home in Lexington MA, 2nd base in Dublin Ireland. OG from Johannesburg.
 
-🛠️ Skilled in JavaScript, TypeScript, TailwindCSS across frameworks. Happy to work in other languages like python or golang.  Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
+🛠️ Skilled in JavaScript/TypeScript and TailwindCSS across frameworks. Happy to work in other languages like python or golang.  Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
-- [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents)
-- [presskit](https://github.com/jldec/presskit/): AI chat + Web publishing, built on Cloudflare
+- [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents) _(TS, Tailwind, RedwoodSDK, AIsdk, OpenAI, Cloudflare)_
+- [presskit](https://github.com/jldec/presskit/): AI chat + Web publishing
 - [gitkitjs](https://gitkitjs.dev): SvelteKit static site generator, inspired by VitePress
 - [pub-server](https://jldec.github.io/pub-doc/): NPM-themable SSG and editor
 
 #### **Opral**: _Engineering, Dublin & Boston, Jan - June 2024_
-- Part of the awesome team building [inlang](https://inlang.com/documentation), a multi-sided i18n platform, and [lix](https://github.com/opral/monorepo/tree/main/lix#readme) change control
+- Part of the awesome team building [inlang](https://inlang.com/documentation), a multi-sided i18n platform, and [lix](https://github.com/opral/monorepo/tree/main/lix#readme) change control (_local first sync architecture_)
 
 #### **Zero ASIC**: _Software Architect, Dublin & Boston, 2023_
 - Semiconductor company developing a disruptive chiplet-based platform
@@ -29,6 +29,7 @@ Full-stack Web software engineer and experienced EM/PM leader.
 #### **Gitpod**: _Product manager, Cambridge UK, 2021 - 2022_
 - PM on feature team for k8s-based [Cloud development environments](https://www.gitpod.io/cde).
 - Successfully led the team to ship usage-based billing
+- Deployed on Kubernetes
 
 #### **VMware**: _Product leader, Cambridge USA & Cambridge UK, 2017 - 2021_
 - Incubated [Tanzu Application Accelerator](https://docs.vmware.com/en/Application-Accelerator-for-VMware-Tanzu/1.0/acc-docs/GUID-index.html) - [demo](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623133962915001FdQX)
@@ -37,7 +38,7 @@ Full-stack Web software engineer and experienced EM/PM leader.
 
 #### **GitHub**: _Principal Engineer, EM, Cambridge USA, 2016 - 2017_
 - Designed, built, shipped, and operated new features for [GitHub Pages](https://pages.github.com/)
-- On-call devops for high-volume SaaS platform
+- On-call devops for high-volume SaaS platform built on RoR and mySQL
 
 #### **EMC / VMWare**: _Engineering manager, Boston, 2008 - 2013_
 - Led development of Cloud Foundry S3 emulator - early adopter of node.js
