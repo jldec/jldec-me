@@ -10,9 +10,11 @@ Full-stack Web software engineer and experienced EM/PM leader.
 
 🏡 Home in Lexington MA, 2nd base in Dublin Ireland. OG from Johannesburg.
 
+🛠️ Skilled in JavaScript, TypeScript, TailwindCSS across frameworks. Happy to work in other languages like python or golang.  Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
+
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
-- **Spaces**: Organizational memory for agents and humans
-- [presskit](https://github.com/jldec/presskit/): AI + Web content, built on Cloudflare Workers
+- [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents)
+- [presskit](https://github.com/jldec/presskit/): AI chat + Web publishing, built on Cloudflare
 - [gitkitjs](https://gitkitjs.dev): SvelteKit static site generator, inspired by VitePress
 - [pub-server](https://jldec.github.io/pub-doc/): NPM-themable SSG and editor
 
