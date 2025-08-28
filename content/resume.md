@@ -24,7 +24,7 @@ Full-stack Web software engineer and experienced EM/PM leader.
 #### **Zero ASIC**: _Software Architect, Dublin & Boston, 2023_
 - Semiconductor company developing a disruptive chiplet-based platform
 - Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation)
-- Back-end deployed on AWS EC2 and ECS, front-end and auth on Cloudflare workers.
+- Deployed on AWS EC2 and ECS, with front-end on Cloudflare workers
 - Built [zaui](https://github.com/zeroasiccorp/zaui), a pip-installable, python-extensible SSG
 
 #### **Gitpod**: _Product manager, Cambridge UK, 2021 - 2022_
