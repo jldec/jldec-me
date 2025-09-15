@@ -2,15 +2,15 @@
 title: Jürgen Leschner
 ---
 # Jürgen Leschner
-Full-stack Web software engineer and experienced EM/PM leader.
+Full-stack Web software product engineer and experienced EM/PM leader.
 
  ❤️ Love to shape new products, work closely with customers, read and write and delete code, collaborate on issues and PRs, improve usability, build automation, measure performance, refine docs, handle on-call.
 
 🚢 Shipped software at GitHub, VMware, Microsoft, and a variety of startups. Always learning.
 
-🏡 Home in Lexington MA, 2nd base in Dublin Ireland. OG from Johannesburg.
+🏡 Home in Lexington MA, 2nd base in Dublin Ireland. OG from Johannesburg. Happy to relocate for the right team / project.
 
-🛠️ Skilled in JavaScript/TypeScript and TailwindCSS across frameworks. Happy to work in other languages like python or golang.  Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
+🛠️ Veteran Web technologist. Skilled in JavaScript/TypeScript and TailwindCSS across frameworks. Happy to work in other languages like python or golang.  Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
 
 #### **Haydn Labs**: _Founder, Boston, 2013 - present_
 - [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents) _(TS, Tailwind, RedwoodSDK, AIsdk, OpenAI, Cloudflare)_
