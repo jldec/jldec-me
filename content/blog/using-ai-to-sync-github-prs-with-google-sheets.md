@@ -16,7 +16,7 @@ The idea came from this [tweet thread](https://x.com/willccbb/status/19683719804
 ![Screenshot of tweet thread](/images/tweets2.webp)
 
 ## Why?
-Even though the thread above was looking for a no-code pure AI Chat solution, quickly building a minimal AI-coded solution felt like the right place to start, helping to identify integration details, and assessing the complexity of the task.
+Even though the thread above asks for a no-code pure AI Chat solution, quickly building a minimal AI-coded solution felt like the right place to start, helping to identify integration details, and assessing the complexity of the task.
 
 All the shell scripts were developed with [Amp](https://ampcode.com/home) - threads [1](https://ampcode.com/threads/T-3cd81dfc-3569-4154-8b9e-7c89da9260cc), [2](https://ampcode.com/threads/T-9f0d37fd-68db-4828-814a-26b1095a0ad5), [3](https://ampcode.com/threads/T-5eccdc48-f5d2-48a8-969f-da184b540a42), [4](https://ampcode.com/threads/T-9fafe09f-9d85-4c01-af71-176c5c37b0a0), [5](https://ampcode.com/threads/T-77768cb7-df98-4b44-ac47-0eb2ed2d39c2).
 
