@@ -10,7 +10,7 @@ excerpt: |
 
 # Syncing GitHub PRs with a Google Sheet
 This is a case study of using shell scripts and a Google Apps script to sync GitHub PRs with a Google sheet.
-All the code lives in [GitHub](https://github.com/jldec/google-sheet-pr-sync).
+Code and installation instructions can be found in this GitHub [repo](https://github.com/jldec/google-sheet-pr-sync).
 
 The idea came from this [tweet thread](https://x.com/willccbb/status/1968371980484460953) by @willccbb.
 ![Screenshot of tweet thread](/images/tweets.webp)
