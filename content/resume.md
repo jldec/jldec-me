@@ -12,13 +12,11 @@ Full-stack Web software product engineer and experienced EM/PM leader.
 
 🛠️ Veteran Web technologist. Skilled in JavaScript/TypeScript and TailwindCSS across frameworks. Happy to work in other languages like python or golang.  Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
 
-#### **Haydn Labs**: _Founder, Boston, 2013 - present_
+#### **Haydn Labs**: _AI Engineering, Dublin and Boston 2025_
 - [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents) _(TS, Tailwind, RedwoodSDK, AIsdk, OpenAI, Cloudflare)_
-- [presskit](https://github.com/jldec/presskit/): AI chat + Web publishing
-- [gitkitjs](https://gitkitjs.dev): SvelteKit static site generator, inspired by VitePress
-- [pub-server](https://jldec.github.io/pub-doc/): NPM-themable SSG and editor
+- [presskit](https://github.com/jldec/presskit/): Static Site Generator with AI chat + Web publishing
 
-#### **Opral**: _Engineering, Dublin & Boston, Jan - June 2024_
+#### **Opral**: _Engineering, Dublin & Boston, 2024_
 - Part of the awesome team building [inlang](https://inlang.com/documentation), a multi-sided i18n platform, and [lix](https://github.com/opral/monorepo/tree/main/lix#readme) change control (_local first sync architecture_)
 
 #### **Zero ASIC**: _Software Architect, Dublin & Boston, 2023_
@@ -26,6 +24,7 @@ Full-stack Web software product engineer and experienced EM/PM leader.
 - Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation)
 - Deployed on AWS EC2 and ECS, with front-end on Cloudflare workers
 - Built [zaui](https://github.com/zeroasiccorp/zaui), a pip-installable, python-extensible SSG
+- Rebranded as [gitkitjs](https://gitkitjs.dev): SvelteKit static site generator
 
 #### **Gitpod**: _Product manager, Cambridge UK, 2021 - 2022_
 - PM on feature team for k8s-based [Cloud development environments](https://www.gitpod.io/cde).
@@ -40,6 +39,9 @@ Full-stack Web software product engineer and experienced EM/PM leader.
 #### **GitHub**: _Principal Engineer, EM, Cambridge USA, 2016 - 2017_
 - Designed, built, shipped, and operated new features for [GitHub Pages](https://pages.github.com/)
 - On-call devops for high-volume SaaS platform built on RoR and mySQL
+
+#### **Haydn Labs**: _Solopreneur, Boston, 2014 - 2015_
+- [pub-server](https://jldec.github.io/pub-doc/): NPM-themable SSG and editor
 
 #### **EMC / VMWare**: _Engineering manager, Boston, 2008 - 2013_
 - Led development of Cloud Foundry S3 emulator - early adopter of node.js
