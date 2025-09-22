@@ -1,7 +1,7 @@
 ---
 title: Using AI to Sync GitHub PRs with a Google Sheet
 splash:
-  image: /images/tatte.webp
+  image: /images/pond1.webp
 date: 2025-09-21
 layout: BlogPostLayout
 excerpt: |
