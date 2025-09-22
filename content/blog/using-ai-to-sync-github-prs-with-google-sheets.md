@@ -52,7 +52,7 @@ Technical and UX judgement were needed to guide the AI generating the code. E.g.
 These domain-specific decisions could be packaged into a new AI Tool for syncing JSON with Google sheets but are unlikely to exist in more generic integration tools.
 
 ### Amp suggestion
-Linking to Amp threads from this README required copy-pasting links from https://ampcode.com/threads. It would be awesome if Amp could organize threads by project, and auto-summarize all the interactions into a single document.
+It would be awesome if Amp could organize threads by project, and auto-summarize all the interactions into a single document. Linking to Amp threads above required copy-pasting from https://ampcode.com/threads.
 
 ### Google Apps Scripts
 Google Apps scripts are lightweight, mostly vanilla JavaScript, and quite productive, but they still feel like the dark ages after building with VS Code, Nodejs, and Cloudflare workers. No TypeScript, no Vite, no ESM modules, and git integration only possible via [clasp](https://developers.google.com/apps-script/guides/clasp).
