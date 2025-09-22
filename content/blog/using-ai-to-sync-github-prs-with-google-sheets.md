@@ -37,9 +37,9 @@ The Apps script compares incoming PRs to existing rows in the sheet and syncs th
 ## Takeaways
 Connecting the output of the `gh` cli with a Google Apps script was straightforward, and required very little code to achieve solid results.
 
-All the code was generated with AI in a matter of hours. Amp is excellent at iterating on a codebase inside a complete developer environment (IDE or terminal) with standard command line tools. Browser-based AI chat is great for research questions, or for generating code which can't be tested locally.
+All the code was generated with AI in a matter of hours. Amp is excellent at iterating on a codebase inside a complete developer environment (IDE or terminal) with standard command line tools. Browser-based AI chat is better for research questions, or for generating code which can't be tested locally.
 
-Technical and UX judgement are still needed to guide the AI generating the code. E.g.
+Technical and UX judgement were needed to guide the AI generating the code. E.g.
 
 - How to create test PRs? A simple loop is prefered over invoking a more complex script multiple times concurrently and handling the conflicts with locking.
 
