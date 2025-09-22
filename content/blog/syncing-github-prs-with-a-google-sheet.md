@@ -25,7 +25,7 @@ The Google Apps script was developed with [Grok](https://grok.com/) - [thread](h
 ## How it works
 Shell scripts [create-pr](https://github.com/jldec/google-sheet-pr-sync/blob/main/create-pr), [close-pr](https://github.com/jldec/google-sheet-pr-sync/blob/main/close-pr), and [list-prs](https://github.com/jldec/google-sheet-pr-sync/blob/main/list-prs) use git and the [gh CLI](https://cli.github.com/) to manipulate PRs from within the cloned repo directory. Only `list-prs` is required for syncing.
 
-Calling [./sheet sync](https://github.com/jldec/google-sheet-pr-sync/blob/main/sheet) invokes `./list-prs --json` and pipes the JSON output into curl, which POSTs the data to the Google Apps script installed as a Web App on the Google sheet.
+Calling [./sheet sync](https://github.com/jldec/google-sheet-pr-sync/blob/main/sheet) invokes `./list-prs --json` and pipes the JSON output into curl, which POSTs the data to the [Google Apps script](https://github.com/jldec/google-sheet-pr-sync/blob/main/google-apps-script.js) installed as a Web App on the Google sheet.
 
 ```sh
 if [ "$1" = "sync" ]; then
