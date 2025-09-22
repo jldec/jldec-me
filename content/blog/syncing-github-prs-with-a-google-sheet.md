@@ -1,5 +1,5 @@
 ---
-title: Syncing GitHub PRs with a Google Sheet
+title: Using AI to Sync GitHub PRs with a Google Sheet
 splash:
   image: /images/pond1.webp
 date: 2025-09-21
