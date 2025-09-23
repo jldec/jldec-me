@@ -28,8 +28,8 @@ sociallinks:
 # Jürgen Leschner
 Co-founder & product engineer - super-interested in AI knowledge tools for agents and humans. 🚢 Shipped content-related software at GitHub, VMware, and Microsoft. Helped build a few startups. Always learning.
 
-> <a class="button" href="/resume">CV</a>
-> <a class="button" href="/blog">Blog</a>
+> <a class="button" href="/resume">Resume</a>
+> <a class="button" href="/blog">Writings</a>
 > <a class="button" href="https://cal.com/jldec/30min">Meet</a>
 >
 > DM me, would ❤️ to chat about
