@@ -66,20 +66,12 @@ Here are just a few of the challenges:
 #### Agent Agent with subagents and MCP tools
 - MCP tools can be added, removed or listed.
 
-- A built-in tool calls [AIChatAgent.saveMessages()](https://github.com/cloudflare/agents/blob/398c7f5411f3a63f450007f83db7e3f29b6ed4c2/packages/agents/src/ai-chat-agent.ts#L185) on a named subagent, passing in a new message, as if it were coming from a user.
-
-- This makes it possible for the main agent to prompt the subagent.
-
-- There are also built-in tools for clearing and listing messages.
-
-- Subagent responses currently don't stream (TODO)
+- A built-in tool calls [AIChatAgent.saveMessages()](https://github.com/cloudflare/agents/blob/c6d9bf162c26db840f19ba60a48607bc47a3ee00/packages/agents/src/ai-chat-agent.ts#L225) on a named subagent, passing in a new message, as if it were coming from a user. This makes it possible for the main agent to prompt the subagent. Subagent responses currently don't stream (TODO)
 
 #### OpenAI Agents SDK
 - OpenAI Agents SDK is less mature and focuses on model APIs, not UI integration.
 
 - It offers APIs for realtime, handoffs, and subagents - not used in this project yet.
-
-- It currently requires [patches](https://github.com/jldec/agents-chat/tree/main/patches) to run in workerd. (from [here](https://github.com/cloudflare/agents/tree/main/patches) 🙏 [@threepointone](https://x.com/threepointone))
 
 - The stateful Agent abstraction assumes long-running server processes with a single conversation per agent.
 

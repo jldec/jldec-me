@@ -1,15 +1,13 @@
 # jldec.me
-
-This repository contains the markdown content for [jldec.me](https://jldec.me).
+This repository contains the markdown content for [https://jldec.me](https://jldec.me).
+The RedwoodSDK application running on Cloudflare lives in [jldec/jldec-website](https://github.com/jldec/jldec-website).
 
 ## Pages
-
-- [Jürgen Leschner](https://jldec.me) - Homepage
-- [Writings](https://jldec.me/blog) - Blog index
-- [Jürgen Leschner](https://jldec.me/resume) - Resume
+- [Homepage](https://jldec.me)
+- [Writings](https://jldec.me/blog)
+- [Resume](https://jldec.me/resume)
 
 ## Blog Posts
-
 - [Using AI to Sync GitHub PRs with a Google Sheet](https://jldec.me/blog/syncing-github-prs-with-a-google-sheet)
 - [Multi-user AI chat with RedwoodSDK RSC and Cloudflare agents](https://jldec.me/blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents)
 - [TypeScript and JavaScript keywords](https://jldec.me/blog/typescript-and-javascript-keywords)
