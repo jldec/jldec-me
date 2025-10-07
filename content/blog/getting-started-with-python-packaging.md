@@ -226,7 +226,7 @@ The [function](https://github.com/jldec/shortscale-py/blob/main/shortscale/tests
 
 ## Benchmarks
 
-I was pleased with the [benchmarks](https://github.com/jldec/shortscale-py/blob/main/tests/bench_shortscale.py) as well. For this string manipulation micro-benchmark, CPython 3.11 is only 1.5x slower than V8 JavaScript! 
+I was pleased with the [benchmarks](https://github.com/jldec/shortscale-py/blob/main/shortscale/tests/bench_shortscale.py) as well. For this string manipulation micro-benchmark, CPython 3.11 is only 1.5x slower than V8 JavaScript! 
 
 Compiled languages like Go and Rust will outperform that, but again, not by a huge amount.   
 
