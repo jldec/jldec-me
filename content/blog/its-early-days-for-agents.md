@@ -10,7 +10,7 @@ excerpt: We're not there yet
 # It's early days for Agents
 [Reasoning](https://openai.com/index/introducing-openai-o1-preview/) and [function calling](https://openai.com/index/function-calling-and-other-api-updates/) both marked significant breakthroughs in the road to making agents more capable.
 
-Coding agents like [Amp](https://ampcode.com/home) and [Claude Code](https://www.claude.com/product/claude-code) now leverage those capabilities to generate real value, for which developers are willing to pay.
+Developer coding agents like [Amp](https://ampcode.com/home) and [Claude Code](https://www.claude.com/product/claude-code) now leverage those capabilities to generate real value, for which users are willing to pay.
 
 But coding agents are not general purpose. If we continue to rely on hand-coded agentic apps with pre-selected tools for specialized domains, that means that we haven't fully grokked the [bitter lesson](https://web.archive.org/web/20251006184925/http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
