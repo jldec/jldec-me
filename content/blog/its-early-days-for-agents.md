@@ -22,9 +22,9 @@ Agents should get smarter over time, constantly refining their knowledge, based 
 1. AI researchers tend to approach the problem from the perspective of [reinforcement learning](https://deeprlcourse.github.io/guests/richard_sutton/).
 2. AI engineers are trying to get better behavior out of LLMs with [context engineering](https://x.com/karpathy/status/1937902205765607626).
 
+## Low hanging fruit
 A combination of both approaches will be required eventually, but in the short term there is a lot of room for agent framework providers to innovate without pushing the problem back into the labs
 
-# Low hanging fruit
 - Remember all conversations.
 - Provide decent search interfaces to map new tasks onto existing knowledge.
 - Refine existing knowledge by subjecting it to feedback from new interactions or from user input.
