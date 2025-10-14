@@ -34,6 +34,6 @@ If this is done well, it will also facilitate sharing and learning amongst teams
 ## Agents FTW
 I am optimistic that even with these modest first steps, we can start shipping agentic systems that are capable of learning and improving over time.
 
-In the meantime, innovations in how users interact with agents (like [solveit](https://solve.it.com)), and how agents interact with their environment (like [codemode](https://blog.cloudflare.com/code-mode/)) are exciting evidence of how fertile this space is.
+In the meantime, innovations in how users interact with agents (like [solveit](https://solve.it.com)), and how agents interact with their environment (like [codemode](https://blog.cloudflare.com/code-mode/)) are exciting evidence of how fertile this space still is.
 
 ## 🚀🚀🚀
