@@ -34,7 +34,6 @@ Co-founder & product engineer - super-interested in AI knowledge tools for agent
 >
 > DM me, would ❤️ to chat about
 > - Where are all the [Agents](/blog/its-early-days-for-agents)?
-> - Building [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents)
 > - Knowledge engineering
 > - Shaping and shipping product
 > - Working with customers
