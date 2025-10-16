@@ -33,9 +33,8 @@ Co-founder & product engineer - super-interested in AI knowledge tools for agent
 > <a class="button" href="https://cal.com/jldec/30min">Meet</a>
 >
 > DM me, would ❤️ to chat about
-> - [Agents](/blog/its-early-days-for-agents)
+> - Where are all the [Agents](/blog/its-early-days-for-agents)?
 > - Building [multi-user AI chat](blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents)
-> - AI and the world of work
 > - Knowledge engineering
 > - Shaping and shipping product
 > - Working with customers
