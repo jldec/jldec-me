@@ -11,7 +11,7 @@ excerpt: Quick intro to Cloudflare Containers and how they work
 
 > You can now use [Cloudflare Containers](https://developers.cloudflare.com/containers/) (Beta) to run processes which require a full Linux environment including a filesystem.
 
-![Diagram showing image build, workers, durable objects and contaner instances.](/images/containers2.webp)
+![Diagram showing image build, workers, durable objects and container instances.](/images/containers2.webp)
 
 ## How it works.
 
@@ -39,5 +39,5 @@ The worker is deployed at https://container-demo-terminal.jldec.workers.dev.
 
 ## Conclusion
 
-Hopefull this quick intro helps to demystify Cloudflare Containers and Durable Objects a little bit. Please reach out on [Twitter](https://x.com/jldec) with questions or feedback.
+I hope this quick intro helps to demystify Cloudflare Containers and Durable Objects a little bit. Please reach out on [Twitter](https://x.com/jldec) with questions or feedback.
 
