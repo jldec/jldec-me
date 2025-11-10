@@ -8,6 +8,7 @@ The RedwoodSDK application running on Cloudflare lives in [jldec/jldec-website](
 - [Resume](https://jldec.me/resume)
 
 ## Blog Posts
+- [Cloudflare Containers Quickstart](https://jldec.me/blog/cloudflare-containers-quickstart)
 - [It's early days for Agents](https://jldec.me/blog/its-early-days-for-agents)
 - [Using AI to Sync GitHub PRs with a Google Sheet](https://jldec.me/blog/syncing-github-prs-with-a-google-sheet)
 - [Multi-user AI chat with RedwoodSDK RSC and Cloudflare agents](https://jldec.me/blog/multi-user-ai-chat-with-redwoodsdk-rsc-and-cloudflare-agents)
