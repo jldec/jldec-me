@@ -15,7 +15,7 @@ You can now use [Cloudflare Containers](https://developers.cloudflare.com/contai
 
 ## How it works.
 
-- `wrangler dev` builds container images using a Dockerfile. The docker build process runs commands from the Dockerfile to install packages and copy files. The resulting file-system changes are captured as cacheable layers in the container image.
+- `wrangler dev` builds container images using a Dockerfile. The docker build process runs commands from the Dockerfile to install packages and copy files. The resulting filesystem changes are captured as cacheable layers in the container image.
 
 - The image can run locally during development and gets pushed to the Cloudflare registry on deploy.
 
