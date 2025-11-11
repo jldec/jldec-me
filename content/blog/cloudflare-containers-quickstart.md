@@ -35,7 +35,17 @@ The example in [github.com/jldec/container-demo-terminal](https://github.com/jld
 
 - [`index.ts`](https://github.com/jldec/container-demo-terminal/blob/main/src/index.ts#L3-L14) is the entry point for the worker. It exports `ContainerClass` and uses the `CONTAINER_DO` binding to connect to the container. Adding a query parameter like `?id=xx` will spin up multiple instances with different names.
 
-The worker is deployed at https://container-demo-terminal.jldec.workers.dev.
+The worker is deployed at https://container-demo-terminal.jldec.workers.dev. Visitors interact with a bash shell in the container over a websocket.
+
+![Screenshot of terminal running top in the container](/images/tty.webp)
+
+## Sandboxes FTW
+
+What if you could provide your users with their own on-demand containers, where they can safely run AI-generated code? 🤖
+
+The Cloudflare [Sandbox SDK](https://sandbox.cloudflare.com/) is built on Cloudflare Containers. It includes a general purpose container with git, Python, nodejs and an API to run commands and streaming responses.
+
+Check out the [documentation](https://developers.cloudflare.com/sandbox/) for more details.
 
 ## Conclusion
 
