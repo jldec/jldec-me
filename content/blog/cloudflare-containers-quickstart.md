@@ -39,6 +39,10 @@ The worker is deployed at https://container-demo-terminal.jldec.workers.dev. Vis
 
 ![Screenshot of terminal running top in the container](/images/tty.webp)
 
+#### Cloudflare's dashboard provides nice observability.
+
+![Cloudflare Container dashboard](/images/container-dashboard.webp)
+
 ## Sandboxes FTW
 
 What if you could provide your users with their own on-demand containers, where they can safely run AI-generated code? 🤖
