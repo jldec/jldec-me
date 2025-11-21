@@ -35,7 +35,7 @@ The example in [github.com/jldec/container-demo-terminal](https://github.com/jld
 
 - [`index.ts`](https://github.com/jldec/container-demo-terminal/blob/main/src/index.ts#L3-L14) is the entry point for the worker. It exports `ContainerClass` and uses the `CONTAINER_DO` binding to connect to the container. Adding a query parameter like `?id=xx` will spin up multiple instances with different names.
 
-The worker is deployed at https://container-demo-terminal.jldec.workers.dev. Visitors interact with a bash shell in the container over a websocket.
+The worker is deployed at https://container-demo-terminal.jldec.workers.dev. Visitors interact with a bash shell in the container over a websocket. This URL is protected with Cloudflare Access.
 
 ![Screenshot of terminal running top in the container](/images/tty.webp)
 
