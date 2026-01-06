@@ -10,7 +10,7 @@ Full-stack Web software product engineer and experienced EM/PM leader.
 
 🚢 Shipped software at GitHub, VMware, Microsoft, and a variety of startups. Always learning.
 
-🏡 Home in Lexington MA, 2nd base in Dublin Ireland. OG from Johannesburg. Happy to relocate for the right team / project.
+🏡 Home in Austin TX, 2nd base in Dublin Ireland. OG from Johannesburg.
 
 🛠️ Veteran Web technologist. Skilled in JavaScript/TypeScript and TailwindCSS across frameworks. Happy to work in other languages like python or golang. Comfortable with different cloud providers. Will go deep to understand architecture choices. Active AI user and builder.
 
