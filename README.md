@@ -1,13 +1,15 @@
 # jldec.me
+
 This repository contains the markdown content for [https://jldec.me](https://jldec.me).
 The RedwoodSDK application running on Cloudflare lives in [jldec/jldec-website](https://github.com/jldec/jldec-website).
 
 ## Pages
+
 - [Homepage](https://jldec.me)
 - [Writings](https://jldec.me/blog)
-- [Resume](https://jldec.me/resume)
 
 ## Blog Posts
+
 - [Cloudflare Containers Quickstart](https://jldec.me/blog/cloudflare-containers-quickstart)
 - [It's early days for Agents](https://jldec.me/blog/its-early-days-for-agents)
 - [Using AI to Sync GitHub PRs with a Google Sheet](https://jldec.me/blog/syncing-github-prs-with-a-google-sheet)

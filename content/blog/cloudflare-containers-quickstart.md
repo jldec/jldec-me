@@ -19,7 +19,7 @@ You can now use [Cloudflare Containers](https://developers.cloudflare.com/contai
 
 - The image can run locally during development and gets pushed to the Cloudflare registry on deploy.
 
-- The `containers` key in `wrangler.jsonc` connects the image with a [Durable Object (DO)](https://developers.cloudflare.com/durable-objects/) class. The implementation of this class is exported from your worker code. It extends a `Container` class which itself extends `DurableObject`.
+- The `containers` key in `wrangler.jsonc` associates the image with a [Durable Object (DO)](https://developers.cloudflare.com/durable-objects/) class. The implementation of this class is exported from your worker code. It extends a `Container` class which itself extends `DurableObject`.
 
 - Container Durable Object instances map 1:1 to running containers. A worker's fetch handler can `get()` a container instance by name/id, and route HTTP requests to it via `container.fetch()`. Those requests are then forwarded by the Durable Object to the exposed port on the running container instance. Containers can spin up lazily, on the first request to the container.
 
@@ -31,7 +31,7 @@ The example in [github.com/jldec/container-demo-terminal](https://github.com/jld
 
 - The [`Dockerfile`](https://github.com/jldec/container-demo-terminal/blob/main/Dockerfile#L5) adds a web-based terminal called tty2web to the image.
 
-- [`wrangler.jsonc`](https://github.com/jldec/container-demo-terminal/blob/main/wrangler.jsonc#L9-L14) links the image to the `ContainerClass`.
+- [`wrangler.jsonc`](https://github.com/jldec/container-demo-terminal/blob/main/wrangler.jsonc#L9-L14) associates the image with the `ContainerClass`.
 
 - [`index.ts`](https://github.com/jldec/container-demo-terminal/blob/main/src/index.ts#L3-L14) is the entry point for the worker. It exports `ContainerClass` and uses the `CONTAINER_DO` binding to connect to the container. Adding a query parameter like `?id=xx` will spin up multiple instances with different names.
 
@@ -54,4 +54,3 @@ Check out the [documentation](https://developers.cloudflare.com/sandbox/) for mo
 ## Conclusion
 
 I hope this quick intro helps to demystify Cloudflare Containers and Durable Objects a little bit. Please reach out on [Twitter](https://x.com/jldec) with questions or feedback.
-

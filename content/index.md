@@ -2,7 +2,7 @@
 title: Jürgen Leschner
 siteurl: https://jldec.me
 description: Co-founder & product engineer 🌳 The Web is for everyone ❤️
-twitter: '@jldec'
+twitter: "@jldec"
 favicon: /images/favicon.jpg
 splash:
   # image: /images/moi.webp
@@ -10,6 +10,8 @@ navlinks:
   - text: Home
     href: /
     icon: home
+  - text: Writings
+    href: /blog
 sociallinks:
   - text: X
     href: https://x.com/jldec
@@ -26,13 +28,15 @@ sociallinks:
 ---
 
 # Jürgen Leschner
-Co-founder & product engineer - super-interested in AI knowledge tools for agents and humans. 🚢 Shipped content-related software at GitHub, VMware, and Microsoft. Helped build a few startups. Always learning.
 
-> <a class="button" href="/resume">Resume</a>
+Product engineer. Super-interested in AI knowledge tools for agents and humans.
+
+Currently helping build a better Internet at Cloudflare. Shipped software at GitHub, VMware, and Microsoft. Lived through several startups, each unique. Always learning.
+
 > <a class="button" href="/blog">Writings</a>
-> <a class="button" href="https://cal.com/jldec/30min">Meet</a>
 >
 > DM me, would ❤️ to chat about
+>
 > - Where are all the [Agents](/blog/its-early-days-for-agents)?
 > - Knowledge engineering
 > - Shaping and shipping product
@@ -46,13 +50,9 @@ Co-founder & product engineer - super-interested in AI knowledge tools for agent
 > - Handling on-call.
 
 ---
+
 _This [website](https://github.com/jldec/jldec-website) runs [RedwoodSDK](https://rwsdk.com/) on Cloudflare Workers. Content lives in [GitHub](https://github.com/jldec/jldec-me)._
 
 _Layout inspired by [The Monospace Web](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)_ 🙏
 
 .........1.........2.........3.........4.........5.........6.........7.........8
-
-
-
-
-
