@@ -31,7 +31,7 @@ sociallinks:
 
 Product engineer. Super-interested in AI knowledge tools for agents and humans.
 
-Currently helping build a better Internet at Cloudflare. Shipped software at GitHub, VMware, and Microsoft. Lived through several startups, each unique. Always learning.
+Currently helping build a better Internet at Cloudflare. Shipped software at GitHub, VMware, and Microsoft. Survived a few startup journeys. Always learning.
 
 > <a class="button" href="/blog">Writings</a>
 >
