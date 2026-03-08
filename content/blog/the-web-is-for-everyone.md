@@ -34,6 +34,6 @@ I wrote about this [here](a-web-for-everyone) and [here](why-the-web-needs-bette
 
 One way might be for Svelte to make it easier to render rich, user-generated content in HTML.
 
-Having to install a compiler, or running a static-site generator, adds friction to something which should be very straightforward. Doing this dynamically in the browser is one of the ideas I'm exploring with [gitkitjs](https://github.com/gitkitjs/gitkitjs).
+Having to install a compiler, or running a static-site generator, adds friction to something which should be very straightforward. Doing this dynamically in the browser is one of the ideas I'm exploring with [Presskit](https://github.com/jldec/presskit/).
 
 ## 🚀 The future looks bright.

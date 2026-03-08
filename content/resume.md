@@ -32,8 +32,7 @@ Full-stack Web software product engineer and experienced EM/PM leader.
 - Semiconductor company developing a disruptive chiplet-based platform
 - Shipped self-service design and emulation [web application](https://www.zeroasic.com/emulation)
 - Deployed on AWS EC2 and ECS, with front-end on Cloudflare workers
-- Built [zaui](https://github.com/zeroasiccorp/zaui), a pip-installable, python-extensible SSG
-- Rebranded as [gitkitjs](https://gitkitjs.dev): SvelteKit static site generator
+- Built [zaui](https://github.com/zeroasiccorp/zaui), a pip-installable, python-extensible, SvelteKit-based static site generator
 
 #### **Gitpod**: _Product manager, Cambridge UK, 2021 - 2022_
 
