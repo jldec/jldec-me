@@ -5,7 +5,7 @@ splash:
   image: /images/minimal-static-site.jldec.workers.dev.webp
 date: 2024-09-27
 ---
-# Building a mimimal static site with Cloudflare Workers
+# Building a minimal static site with Cloudflare Workers
 
 Cloudflare recently announced [static assets](https://blog.cloudflare.com/builder-day-2024-announcements/#static-asset-hosting) for workers.
 
