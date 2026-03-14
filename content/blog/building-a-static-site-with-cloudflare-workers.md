@@ -5,7 +5,8 @@ splash:
   image: /images/minimal-static-site.jldec.workers.dev.webp
 date: 2024-09-27
 ---
-# Building a mimimal static site with Cloudflare Workers
+
+# Building a minimal static site with Cloudflare Workers
 
 Cloudflare recently announced [static assets](https://blog.cloudflare.com/builder-day-2024-announcements/#static-asset-hosting) for workers.
 
@@ -20,7 +21,10 @@ Here are the steps to deploy a static site **from scratch**. You can follow alon
 Less patient users can run `pnpm create cloudflare --experimental` and choose a static asset template as described in the [docs](https://developers.cloudflare.com/workers/static-assets/get-started/#1-create-a-new-worker-project-using-the-cli).
 
 ### 1. Create an empty directory and install wrangler
+
 These instructions assume that you already have [node](https://nodejs.org/) and [pnpm](https://pnpm.io/).
+
+
 ```sh
 mkdir minimal-static-site
 cd minimal-static-site
@@ -28,17 +32,24 @@ pnpm install wrangler
 ```
 
 ### 2. Create wrangler.toml
+
 You can choose your own worker name and content directory for assets.
+
+
 ```toml
 #:schema node_modules/wrangler/config-schema.json
 name = "minimal-static-site"
 compatibility_date = "2024-09-25"
 assets = { directory = "./content" }
 ```
+
 The worker will serve all files in the assets directory on [routes](https://developers.cloudflare.com/workers/static-assets/routing/) starting at the worker root.
 
 ### 3. Create index.html in your content directory
+
 Here is some sample HTML to get started. Use any [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) files you like. Everything in the content directory will be uploaded and served, including [images](https://developer.mozilla.org/en-US/docs/Web/Media/images).
+
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -69,6 +80,7 @@ Here is some sample HTML to get started. Use any [HTML](https://developer.mozill
 
 ### 4. Ship it 🚢
 
+
 ```txt
 $ pnpm wrangler deploy
 
@@ -92,10 +104,12 @@ Current Version ID: d0ecd041-b9a3-4e89-b168-baa394567839
 The result is live at [minimal-static-site.jldec.workers.dev](https://minimal-static-site.jldec.workers.dev)
 
 ### What's next?
+
 Here are some suggestions for next steps:
+
 - Connect a [GitHub](https://developers.cloudflare.com/workers/ci-cd/builds/#get-started) repo.
 - Add a [custom domain](https://developers.cloudflare.com/workers/configuration/routing/custom-domains/).
 - Build your site with a [framework](https://developers.cloudflare.com/workers/frameworks/) like [Astro](https://developers.cloudflare.com/workers/frameworks/framework-guides/astro/).
-
 ---
-_For more thoughts about workers and assets, see [Read-write Static Assets bindings for Cloudflare Workers](read-write-static-asset-bindings-for-cloudflare-workers)._
+
+*For more thoughts about workers and assets, see **[Read-write Static Assets bindings for Cloudflare Workers](read-write-static-asset-bindings-for-cloudflare-workers)**.*
