@@ -1,7 +1,8 @@
 # jldec.me
 
-This repository contains the markdown content for [https://jldec.me](https://jldec.me).
-The RedwoodSDK application running on Cloudflare lives in [jldec/jldec-website](https://github.com/jldec/jldec-website).
+This repository was used to maintain markdown content for the RedwoodSDK application in [jldec/jldec-website](https://github.com/jldec/jldec-website).
+
+The content and code for [https://jldec.me](https://jldec.me) are now co-located in [jldec/jldec-astro](https://github.com/jldec/jldec-astro).
 
 ## Pages
 
